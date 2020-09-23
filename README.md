@@ -6,9 +6,9 @@
 | 2020/09 | [Genetic Algorithm (GA)](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II/blob/master/introduction/GA/GA.md) |cheng-man wu (2018)|
 | 2020/09 | [Nondominated Sorting Genetic Algorithm II (NSGA-II)](https://github.com/wurmen/Genetic-Algorithm-for-Job-Shop-Scheduling-and-NSGA-II/blob/master/introduction/NSGA-II/NSGA-II.md) |cheng-man wu (2018)|
 ## Literature Review
-| 更新时间| 文章 |
-| --- | --- |
-| xx | xx |
+| 更新时间| 文章 | 引用 |
+| --- | --- | --- |
+| xx | xx ||xx |
 ## Implementation with Python
 | 更新时间| 文章 | 链接 |
 | --- | --- | --- |
