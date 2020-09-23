@@ -3,4 +3,8 @@
 ## Introduction
 | 更新时间| 文章 |
 | --- | --- |
-| 2020 | Genetic Algorithm (GA) |
+| 2020/09 | Genetic Algorithm (GA) |
+## Literature Review
+| 更新时间| 文章 |
+| --- | --- |
+| xx | xx |
