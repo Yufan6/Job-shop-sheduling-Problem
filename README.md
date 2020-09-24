@@ -9,7 +9,3 @@
 | 更新时间| 文章 | 引用 |
 | --- | --- | --- |
 | xx | xx ||xx |
-## Implementation with Python
-| 更新时间| 文章 | 链接 |
-| --- | --- | --- |
-| xx | xx | xxx|
